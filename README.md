@@ -53,10 +53,10 @@ KaseiCoin will be a fungible token that’s ERC-20 compliant. You’ll launch a 
 
 ## Source Code
 
-[KaseiCoin.sol](KaseiCoin.sol)
+[KaseiCoin.sol](Codes/KaseiCoin.sol)
 <br>
 
-[KaseiCoinCrowdsale.sol](KaseiCoinCrowdsale.sol)
+[KaseiCoinCrowdsale.sol](Codes/KaseiCoinCrowdsale.sol)
 <br>
 
 <div id="Tech"></div>
