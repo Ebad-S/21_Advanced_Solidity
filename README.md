@@ -68,6 +68,7 @@ KaseiCoin will be a fungible token that’s ERC-20 compliant. You’ll launch a 
 * Injected Web3
 * OpenZepplin (imported)
 * VS Code
+* Remix - Ethereum IDE
 
 <br>
 
